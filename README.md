@@ -1,10 +1,10 @@
 # Fruit-Match
 This is a small project I did to learn the basics of using Unity, its gameplay mechanism is quite similar to the game "Candy Crush Saga"
 
-##Techs and Credits
+## Techs and Credits
 - Unity (C#)
 - Tutorial from Flarvain (Youtube channel)
-- Asset from opengameart.org 
+- Asset from opengameart.org
 
 ## Preview
 <img src ="Preview/Preview%20(1).gif" alt="Demo GIF" width = 600>
