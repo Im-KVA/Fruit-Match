@@ -9,7 +9,7 @@ This is a small project I did to learn the basics of using Unity, its gameplay m
 ## Preview
 <img src ="Preview/Preview%20(1).gif" alt="Demo GIF" width = 600>
 
-## Unity-preview
+## Unity Screenshots
 <img src ="Preview/Play.png" width = 600>
 <img src ="Preview/Win.png" width = 600>
 <img src ="Preview/Lose.png" width = 600>
