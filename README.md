@@ -6,7 +6,7 @@ This is a small project I did to learn the basics of using Unity, its gameplay m
 - Tutorial from Flarvain (Youtube channel)
 - Asset from opengameart.org
 
-## Preview
+## Gif - Preview
 <img src ="Preview/Preview%20(1).gif" alt="Demo GIF" width = 600>
 
 ## Unity Screenshots
